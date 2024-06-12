@@ -28,4 +28,5 @@
 ----
 
 ## ⭐ Informações sobre minha conta GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MarcusMartins1=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusMartins1)](https://github.com/MarcusMartins1/github-readme-stats)
+
